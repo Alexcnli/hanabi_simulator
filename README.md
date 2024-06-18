@@ -1,6 +1,5 @@
 # hanabi simulator
-[Hanabi](https://boardgamegeek.com/boardgame/98778/hanabi) is a boardgame designed by [Antoine Bauza](https://boardgamegeek.com/boardgamedesigner/9714/antoine-bauza).  
-You may also check the detailed rules [here](https://rnrgames.com/Content/RRGames/images/ProductRules/hanabiRules.pdf)  
+[Hanabi](https://boardgamegeek.com/boardgame/98778/hanabi) is a boardgame designed by [Antoine Bauza](https://boardgamegeek.com/boardgamedesigner/9714/antoine-bauza). You may also check the detailed rules [here](https://rnrgames.com/Content/RRGames/images/ProductRules/hanabiRules.pdf)  
 In a nutshell, this is a cooperative game with imperfect information, meaning that most of the moves and choices players make can only be based on speculations and implications.  
 
 This project aims to create the logic of the entire game, implement the interface using Pygame, and finally design and train an AI model to play this game.  
