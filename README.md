@@ -8,6 +8,8 @@ This project aims to create the logic of the entire game, implement the interfac
 
 This project is inspired by the paper [The Hanabi Challenge: A New Frontier for AI Research](https://arxiv.org/abs/1902.00506)
 According to the result in the paper, a normal person who played just a while could obtain the same performance as an AI. Since it is hard for AI to deduce concrete ideas and logic based on incomplete information and uncertainty.  
+
+
 And this project is trying to recreate the experiment and see if there's any better solution.  
 
 # What's Next?  
